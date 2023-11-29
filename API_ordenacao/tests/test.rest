@@ -1,0 +1,7 @@
+## Teste da API que ordena o vetor
+POST http://localhost:3000/sort HTTP/1.1
+Content-Type: application/json
+
+{
+    "vetor": [5, 2, 3, 1, 9]
+}
