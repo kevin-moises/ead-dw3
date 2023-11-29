@@ -1,5 +1,5 @@
 ## Teste da API que retorna o maior e o menor
-POST http://localhost:3000/magnitudes HTTP/1.1
+POST http://localhost:3001/magnitudes HTTP/1.1
 Content-Type: application/json
 
 {
